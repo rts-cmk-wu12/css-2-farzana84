@@ -1,0 +1,17 @@
+.abonnement-article h6{
+    margin-bottom: 0.5em;
+}
+.abonnement-article-container a{
+    text-decoration: none;
+   color: black;
+   font-size: 1.1em;
+font-weight: 700;
+}
+
+.abonnement-article-container{
+     display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-flow: row;
+    gap:1em;
+    margin-top: 2em;
+ }

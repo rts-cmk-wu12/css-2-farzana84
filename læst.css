@@ -1,0 +1,37 @@
+.læst {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5em;
+    border-bottom: dotted;
+  }
+  
+  .læst__heading {
+    display: flex;
+  }
+  .læst__heading h2 {
+    margin-right: 0.5em;
+  }
+  
+  .sec5 {
+    margin-bottom: 2.5em;
+  }
+  
+  article.læst-gallery {
+    display: grid;
+    grid-auto-flow: column;
+    gap: 1em;
+    }
+  
+  article.læst-placeholser > div {
+    padding: 1em .5em;
+  }
+  
+  .læst-placeholser img {
+      width: 100%;
+  }
+  
+  .læst-placeholser p {
+    font-size: 1.1em;
+    font-weight: 700;
+  }
+  

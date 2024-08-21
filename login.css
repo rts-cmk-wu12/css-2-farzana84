@@ -1,0 +1,31 @@
+.login{
+    text-align: center;
+    margin-bottom: 5em;
+    margin-top: -3em;
+    margin-left: 10em;
+   
+}
+.login-text {
+    font-size: 1.3em;
+    font-weight: 900;
+    margin-bottom: 2em;
+}
+.login-btn{
+    height: 3em;
+    width: 15em;
+    margin-bottom: 2em;
+    background-color: red;
+    border: none;
+    color: white;
+   font-weight: 600;
+   border-radius: .4em;
+   }
+   .login-link-text{
+    color: gray;
+    font-size: 1.2em;
+   
+   }
+   .login-link a{
+    color: black;
+   
+   }
